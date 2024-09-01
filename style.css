@@ -4,3 +4,94 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+
+
+.footer{
+    border-radius:40px 40px 0px  0px ;
+    box-shadow: 6px 0px 6px 0px #0000000D;
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top:87px;
+    background-color: #FFFFFF;
+    
+ 
+
+}
+
+.footer-first-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 84px;
+    margin-right:1130px ;  
+    margin-bottom: 100px;
+   
+}
+
+.footer-logo{
+    margin-top: 87px;
+}
+
+.footer-logo img{
+    width: 226px;
+    height: 49px;
+
+}
+
+.footer-navigation h1{
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 39px;
+    text-align: left;
+    color:#262626 ;
+    margin-left: 566px;
+    margin-right: 20px;
+    width: 226px;
+    margin-top: 87px;
+
+}
+
+.footer-navigation a{
+    margin-top: 92px;
+}
+.footer-navigation {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+}
+
+.line-second{
+    width: 1267px;
+    height: 0px;
+    border: 1px 0px 0px 0px;
+    margin-left: 86.5px;
+    margin-right: 86.5px;
+    margin-top: 77px;
+    margin-bottom: 34px;
+    border: 1px solid #BCBCBC;
+
+}
+
+.footer-second-section{
+    width: 413px;
+    height: 24px;
+    margin-left: 88px;
+    margin-right: 939px;
+   
+    padding-bottom: 37px;
+    
+
+}
+.footer-second-section h2{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    text-align: left;
+    color:#262626 ;
+  
+    
+
+}
+
